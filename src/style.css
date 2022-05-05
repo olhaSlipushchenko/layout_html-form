@@ -1,13 +1,8 @@
-.form-fild{
+.form-field {
   display: block;
-  margin: 10px 0;
+  margin-bottom: 10px;
 }
-.plus{
-  display: block;
-}
-button{
-  margin: 20px;
-}
-fieldset{
-  margin: 20px;
+
+.fieldset {
+  margin-bottom: 20px;
 }
